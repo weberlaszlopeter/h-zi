@@ -1,0 +1,10 @@
+C:\Users\zseml\source\repos\witcher\witcher\obj\Debug\witcher.csprojAssemblyReference.cache
+C:\Users\zseml\source\repos\witcher\witcher\obj\Debug\witcher.Form1.resources
+C:\Users\zseml\source\repos\witcher\witcher\obj\Debug\witcher.Form2.resources
+C:\Users\zseml\source\repos\witcher\witcher\obj\Debug\witcher.Properties.Resources.resources
+C:\Users\zseml\source\repos\witcher\witcher\obj\Debug\witcher.csproj.GenerateResource.cache
+C:\Users\zseml\source\repos\witcher\witcher\bin\Debug\witcher.exe.config
+C:\Users\zseml\source\repos\witcher\witcher\bin\Debug\witcher.exe
+C:\Users\zseml\source\repos\witcher\witcher\bin\Debug\witcher.pdb
+C:\Users\zseml\source\repos\witcher\witcher\obj\Debug\witcher.exe
+C:\Users\zseml\source\repos\witcher\witcher\obj\Debug\witcher.pdb
